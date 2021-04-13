@@ -1,0 +1,19 @@
+{
+    "short_name": "Blotify",
+    "name": "Blotify PWA",
+    "icons": [{
+            "src": "/assets/images/icons/this_folder_doesn't_exist",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/images/icons/this_folder_doesn't exist",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#4c5659",
+    "display": "standalone",
+    "theme_color": "#4c5659"
+}
